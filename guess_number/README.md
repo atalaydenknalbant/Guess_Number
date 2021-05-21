@@ -18,7 +18,7 @@ Call Guess_Number object to start the game.
 
 ## Authors
 
-* **Atalay Denknalbant** - *calculus_formulas* 
+* **Atalay Denknalbant** - *Guess Number* 
 
 ## License
 
