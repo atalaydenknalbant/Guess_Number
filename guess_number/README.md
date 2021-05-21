@@ -1,6 +1,6 @@
-# guess number
+# Guess Number
 
-Guess the number game for given range
+Guess the number game(python package) for given range
 
 ### Prerequisites
 
