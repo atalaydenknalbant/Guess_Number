@@ -16,6 +16,10 @@ pip install guess_number-atalay
 
 Call Guess_Number object to start the game.
 
+## Source
+
+https://pypi.org/project/guess-number-atalay/
+
 ## Authors
 
 * **Atalay Denknalbant** - *Guess Number* 
