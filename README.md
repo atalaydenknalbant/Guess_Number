@@ -27,7 +27,7 @@ https://pypi.org/project/guess-number-atalay/
 
 ## Authors
 
-* **Atalay Denknalbant** - *Guess Number* 
+* **Atalay Denknalbant** 
 
 ## License
 
